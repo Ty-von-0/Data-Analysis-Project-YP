@@ -1,7 +1,7 @@
 # Youth Program Data Analysis & Crime Comparison Project
 
 ## Overview
-This project analyzes **City of Calgary youth crime data** and compares it to **synthetic engagement data** generated for the _Hand2Hand Youth Program_ database.
+This project analyzes **City of Calgary youth crime data** and compares it to **synthetic engagement data** generated for the REDACTED database.
 The goal is to demonstrate, through data, how consistent participation in structured youth programs can help keep young people **safe, engaged, and out of trouble**.
 
 This project includes:
@@ -14,8 +14,8 @@ This project includes:
 
 ## Project Purpose
 The core purpose of this project is to: 
-### Analyze Calgary youth crime trends and compare them to synthetic participation data from the Hand2Hand Youth Program to illustrate how structured, community‑based programs can reduce risk and keep youth safe.
-The Hand2Hand Youth Program is used as the narrative foundation, but **all program data is synthetic** to protect privacy while still enabling meaningful analysis. 
+### Analyze Calgary youth crime trends and compare them to synthetic participation data to illustrate how structured, community‑based programs can reduce risk and keep youth safe.
+My experience working with a calgary based youth program is used as the narrative foundation, but **all program data is synthetic** to protect privacy while still enabling meaningful analysis. 
 This project demonstrates how:
 - Higher program attendance correlates with lower risk exposure 
 - Time spent in supervised activities reduces opportunities for crime involvement
