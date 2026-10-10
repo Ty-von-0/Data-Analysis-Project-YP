@@ -1,7 +1,7 @@
-# Youth Program Data Analysis & Crime Comparison Project
+# Youth Program Data Analysis & Crime Statistics Project
 
 ## Overview
-This project analyzes **City of Calgary youth crime data** and compares it to **synthetic engagement data** generated for the REDACTED database.
+This project analyzes **2019 City of Calgary youth crime data** and **synthetic engagement data** generated for the REDACTED database.
 The goal is to demonstrate, through data, how consistent participation in structured youth programs can help keep young people **safe, engaged, and out of trouble**.
 
 This project includes:
@@ -9,12 +9,12 @@ This project includes:
 - **Synthetic data generation using Python**
 - **Real Calgary youth crime data** (publicly available)
 - **Analytical SQL queries**
-- **A Power BI dashboard comparing crime trends vs. program engagement**
+- **A Power BI Report of Youth Program attendance and City of Calgary Crime Statistics**
 - **Documentation and ERD diagrams**
 
 ## Project Purpose
 The core purpose of this project is to: 
-### Analyze Calgary youth crime trends and compare them to synthetic participation data to illustrate how structured, community‑based programs can reduce risk and keep youth safe.
+### Analyze Calgary crime trends and compare them to synthetic participation data to illustrate how structured, community‑based programs can reduce risk and keep youth safe.
 My experience working with a calgary based youth program is used as the narrative foundation, but **all program data is synthetic** to protect privacy while still enabling meaningful analysis. 
 This project demonstrates how:
 - Higher program attendance correlates with lower risk exposure 
